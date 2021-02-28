@@ -1,2 +1,2 @@
-# JavaTestApp
-For testing RedHat OpenShift 
+# Flask App
+For testing Flask Web Framework in Python
